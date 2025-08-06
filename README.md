@@ -47,11 +47,5 @@ This project addresses digital inequality by enabling visually impaired users to
 * Mobile app version for real-time use.
 
 ## 📄 License
-This project is licensed under the **MIT License**.
 Feel free to use, modify, and distribute with attribution.
 
-* A `requirements.txt` generated
-* `app.py` for Gradio/Hugging Face deployment
-* Help making a GitHub repo structure or zip
-
-Want me to prepare this in markdown file format for you?
